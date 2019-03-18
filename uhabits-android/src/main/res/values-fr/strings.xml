@@ -20,7 +20,7 @@
   -->
 <resources>
   <string name="app_name">איזהו גיבור</string>
-  <string name="main_activity_title">engagements</string>
+  <string name="main_activity_title">Engagements</string>
   <string name="action_settings">Paramètres</string>
   <string name="edit">Modifier</string>
   <string name="delete">Supprimer</string>
@@ -29,13 +29,13 @@
   <string name="add_habit">Ajouter un engagement</string>
   <string name="color_picker_default_title">Changer la couleur</string>
   <string name="toast_habit_created">Engagement créé</string>
-  <string name="toast_habit_deleted">Engagements supprimée</string>
+  <string name="toast_habit_deleted">Engagements supprimés</string>
   <string name="toast_habit_restored"> Engagements rétablis</string>
   <string name="toast_nothing_to_undo">Rien à annuler</string>
   <string name="toast_nothing_to_redo">Rien à refaire</string>
   <string name="toast_habit_changed"> Engagement changé</string>
   <string name="toast_habit_changed_back">Engagement restauré</string>
-  <string name="toast_habit_archived">Engagementsarchivés</string>
+  <string name="toast_habit_archived">Engagements archivés</string>
   <string name="toast_habit_unarchived">Engagements désarchivés</string>
   <string name="overview">Vue d\'ensemble</string>
   <string name="habit_strength">Force de l\'engagement</string>
@@ -61,11 +61,11 @@
   <string name="snooze">Plus tard</string>
   <!-- App introduction -->
   <string name="intro_title_1">Bienvenus Giborim</string>
-  <string name="intro_description_1">Votre profil affiche votre parcours personnel, vos progres, et votre niveau de prise de conscience.Cette application vous aidera enfin a realiser votre volonte!.</string>
-  <string name="intro_title_2">Fixez vous un objectif a atteindre.</string>
-  <string name="intro_description_2">Ajoutez le a la liste des engagements pris en appuyant sur le bouton "ajout", et precisez chaque jour si vous avez releve le defi.</string>
+  <string name="intro_description_1">Votre profil affiche votre parcours personnel, vos progrès , et votre niveau de prise de conscience.Cette application vous aidera enfin a réaliser votre volonté!.</string>
+  <string name="intro_title_2">Fixez vous un objectif à atteindre.</string>
+  <string name="intro_description_2">Ajoutez le à la liste des engagements pris en appuyant sur le bouton "ajout", et précisez chaque jour si vous avez relevé le défi .</string>
   <string name="intro_description_3">Les engagements régulièrs pendant une période de temps étendue gagneront une étoile complète.</string>
-  <string name="intro_title_4">Au fil du temps, es commptes-rendus detailleront vos progres, votre rang sera defini et vous saurez quel Gibor vous etes!!</string>
+  <string name="intro_title_4">Au fil du temps, des commptes-rendus détailleront vos progrès , Votre rang sera défini et vous saurez quel Gibor vous êtes! </string>
   <string name="intro_description_4">Des graphiques détaillés vous montrent comment vos engagements évoluent au fil du temps.</string>
   <string name="interval_15_minutes">15 minutes</string>
   <string name="interval_30_minutes">30 minutes</string>
@@ -166,7 +166,7 @@
   <string name="uncheck">Décocher</string>
   <string name="toggle">Basculer</string>
   <string name="action">Action</string>
-  <string name="habit">Habitude</string>
+  <string name="habit">Engagement</string>
   <string name="sort">Trier</string>
   <string name="manually">Manuellement</string>
   <string name="by_name">Par nom</string>
